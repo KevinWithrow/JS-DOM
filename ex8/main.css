@@ -5,3 +5,8 @@
 #description, #search, #todo-list {
     font-size: 1.5em;
 }
+/* Add a "checked" mark when clicked on */
+ul li.checked {
+    text-decoration: line-through;
+
+  }
